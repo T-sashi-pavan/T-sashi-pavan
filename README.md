@@ -26,7 +26,7 @@
 - 🌱 Learning **Advanced Machine Learning & DevOps**
 - 👯 Looking to collaborate on **innovative projects**
 - 💬 Ask me about **MERN Stack, AI/ML, Cloud Computing**
-- 📫 Reach me at: **tirumalasetty.sashipavan@gmail.com**
+- 📫 Reach me at: **sashipavantirumalasetty1@gmail.com**
 - 🔗 Connect on LinkedIn: [tirumalasetty-sashi-pavan](https://www.linkedin.com/in/tirumalasetty-sashi-pavan-a76624269/)
 - 🌐 Portfolio: [tirumalasetty-sashi-pavan.netlify.app](https://tirumalasetty-sashi-pavan.netlify.app)
 - ⚡ Fun fact: **I debug with coffee and build with passion!** ☕
