@@ -411,7 +411,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
   
-  **⭐ From [Tirumalasetty Sashi Pavan](https://github.com/your-github-username) - Building the future, one commit at a time! 🚀**
+  **⭐ From [Tirumalasetty Sashi Pavan](https://github.com/T-sashi-pavan) - Building the future, one commit at a time! 🚀**
   
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
