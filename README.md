@@ -401,8 +401,8 @@
   ### 💼 Open for Collaborations & Opportunities
   
   [![Hire Me](https://img.shields.io/badge/Hire%20Me-Success?style=for-the-badge&logo=handshake&logoColor=white)](https://tirumalasetty-sashi-pavan.netlify.app/)
-  [![Let's Connect](https://img.shields.io/badge/Let's%20Connect-Blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![View Resume](https://img.shields.io/badge/View%20Resume-Red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
+  [![Let's Connect](https://img.shields.io/badge/Let's%20Connect-Blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirumalasetty-sashi-pavan-a76624269/)
+  [![View Resume](https://img.shields.io/badge/View%20Resume-Red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1MAEB5G2Sx-N5CMxI4N1ATkJl2keH3NSA/view?usp=drivesdk)
   
 </div>
 
